@@ -1,5 +1,3 @@
-ProfileMe.dev
-
 
 Introduction
 Skills
