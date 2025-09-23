@@ -25,11 +25,5 @@ I am a Full-Stack Developer with 4 years of experience, I specialize in both fro
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sahdasamier"><img src="https://github-readme-stats.vercel.app/api?username=sahdasamier&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="sahdasamier's GitHub stats" /></a>
-<a href="http://www.github.com/sahdasamier"><img src="https://github-readme-stats.vercel.app/api?username=sahdasamier&show_icons=true&hide=prs,issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="sahdasamier's GitHub stats" /></a>
-
-<a href="http://www.github.com/sahdasamier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahdasamier&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sahdasamier&bg_color=000000&color=dfbfdc&line=decf2b&point=7a53d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ProfileMe.dev | Create an amazing GitHub profile in minutes
