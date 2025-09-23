@@ -7,7 +7,7 @@ Full stack developer
 
 I am a Full-Stack Developer with 4 years of experience, I specialize in both front-end and back-end technologies. My journey in software development has allowed me to contribute to decentralized Web3 applications, where I’ve honed my skills in building scalable and efficient systems.
 
-* 🖥️  See my portfolio at [Sia Portfolio](http://ttps://www.profileme.dev/)
+* 🖥️  See my portfolio at [Sia Portfolio](https://sahda-samier.web.app/)
 * ✉️  You can contact me at [sahdasamier013@gmail.com](mailto:sahdasamier013@gmail.com)
 * 🧠  I'm currently learning Python
 * 👥  I'm looking to collaborate on Any Web development Ideas
